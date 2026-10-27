@@ -222,10 +222,6 @@ My plan for growing in **AI** and **Cybersecurity**, with **Cloud** tying them t
 
 <img src="https://streak-stats.demolab.com?user=vaibhaavtiwarii&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhaavtiwarii&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
 </div>
 
 ---
