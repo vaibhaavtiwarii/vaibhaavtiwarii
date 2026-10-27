@@ -1,6 +1,4 @@
-<!-- PROFILE README for vaibhaavtiwarii
-     Setup: create a PUBLIC repo named exactly "vaibhaavtiwarii" (same as your username),
-     tick "Add a README", then paste this whole file into it. -->
+
 
 <div align="center">
 
