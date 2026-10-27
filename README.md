@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00d4ff&height=230&section=header&text=Vaibhav%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Cybersecurity%20%7C%20B.Tech%20CSE%20(Cloud%20Computing%20%26%20Cybersecurity)&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00d4ff&height=230&section=header&text=Vaibhav%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20and%20Cybersecurity%20%7C%20B.Tech%20CSE%20-%20Cloud%20Computing%20and%20Cybersecurity&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://github.com/vaibhaavtiwarii">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+cyber+defense;Where+Machine+Learning+meets+Security;SIH+2026+shortlisted+%7C+AIORI+3+participant;First-year+student%2C+learning+in+public" alt="Typing SVG" />
